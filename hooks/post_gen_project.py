@@ -1,0 +1,1 @@
+print(f"New project has been generated")
