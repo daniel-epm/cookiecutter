@@ -3,7 +3,8 @@
     "project_title": "Data Science Project",
     "project_author": "Author name",
     "project_author_email": "Author email",
+    "project_collaborators": " ",
     "project_description": "What is this project about?",
     "project_packages": ["All", "Minimal"],
-    "python_version": "3.7"
+    "python_version": "3.8"
 }
