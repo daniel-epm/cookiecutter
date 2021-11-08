@@ -11,4 +11,4 @@ subprocess.call(["git", "init"])
 subprocess.call(["git", "add", "."])
 subprocess.call(["git", "commit", "-m", "Initial commit"])
 
-print(f"{MESSAGE_COLOR} ¡Project generated succesfully!")
+print(f"{MESSAGE_COLOR} ¡Project generated succesfully! {RESET_ALL}")
