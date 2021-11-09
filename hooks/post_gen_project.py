@@ -1,7 +1,5 @@
 import subprocess
 
-from hooks.pre_gen_project import RESET_ALL
-
 MESSAGE_COLOR = "\x1b[33m"
 RESET_ALL = "\x1b[0m"
 
